@@ -1,3 +1,11 @@
+# React-Redux Typescript TODO app.
+
+This app allows you to Create, Edit, Complete and Delete TODOs.
+It also demonstrates the usage of the following:
+- Routing mechanism
+- Reducers
+- Jest/Puppeteer test suite
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
