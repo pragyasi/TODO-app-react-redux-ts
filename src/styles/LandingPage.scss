@@ -1,0 +1,30 @@
+*{
+  box-sizing : border-box;
+}
+body {
+  background-color: whitesmoke;
+}
+
+.landing-page-container{
+  display : flex;
+  flex-direction : column ; 
+  justify-content: center;
+  align-items: center;
+  height : 100vh;
+  max-width: 100%;
+}
+.landing-page-input , .landing-page-button{
+  height : 40px;
+  border-radius: 10px;
+  width :30%;
+  margin : 5px;
+}
+.landing-page-input{
+  border : 1px solid grey
+}
+.landing-page-button{
+  background-color: green;
+  color : whitesmoke;
+  border : none ;
+
+}
