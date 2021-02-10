@@ -151,7 +151,7 @@ export default function TodoList() {
 
   return (
     <div className="container">
-      <h2>Here's the todo TodoList for {selector.LandingPage.user}</h2>
+      <h2>Todo List for: {selector.LandingPage.user}</h2>
       <h3 className="add-item-heading">Add item</h3>
       <p>
         <input
