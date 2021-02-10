@@ -1,5 +1,7 @@
 # React-Redux Typescript TODO app.
 
+![TODO App](https://github.com/pragyasi/TODO-app-react-redux-ts/blob/main/public/Todo.png)
+
 This app allows you to Create, Edit, Complete and Delete TODOs.
 It also demonstrates the usage of the following:
 - Routing mechanism
